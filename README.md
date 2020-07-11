@@ -1,6 +1,9 @@
-# JSPlaygrounds
+# JS Playgrounds
 
-[Show me the demo!](https://stephengrider.github.io/JSPlaygrounds/)
+[origin demo](https://stephengrider.github.io/JSPlaygrounds/)
+
+
+--------
 
 ### Running Locally
 
@@ -9,8 +12,7 @@
   npm start // visit localhost:8080
 ```
 
-### Contributing
 
-Please do!
+--------
 
-
+[WebPack config](https://hacksoft.io/your-first-webpack/)
