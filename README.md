@@ -9,7 +9,6 @@
 
 [2x2.now.sh](https://2x2.now.sh/)
 
-https://online-tool.now.sh
 [2x2.vercel.app](https://2x2.vercel.app/)
 
 --------
