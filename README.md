@@ -5,7 +5,7 @@
 
 [js-online.now.sh](https://js-online.now.sh/)
 
-[online-tool.now.sh/](https://online-tool.now.sh/)
+[online-tool.now.sh](https://online-tool.now.sh/)
 
 [2x2.now.sh](https://2x2.now.sh/)
 
